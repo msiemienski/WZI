@@ -1,6 +1,6 @@
 # WZI
 
-Mateusz Siemieński
-Tomasz Raczunas
-Nikodem Smoliński
-Beniamin Rędzio
+Mateusz Siemieński <br>
+Tomasz Raczunas <br>
+Nikodem Smoliński <br>
+Beniamin Rędzio <br>
